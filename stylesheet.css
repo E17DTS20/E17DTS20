@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	font-family: "Lucida Grande";
+}
+a {
+	text-decoration: none;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+header {
+  height: 90px;
+  padding: 10px 10px;
+  width: 100%;
+  background-color: #57606f;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+.header-left {
+	float: left;
+}
+.header-right a {
+	float: right;
+	padding: 25px 20px;
+	color: #eccc68;
+  font-size: 20px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
