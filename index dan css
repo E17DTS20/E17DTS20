@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>E17 DTS 20</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    
+  </head>
+  <body>
+    <header>
+      <div class="header">
+      <div class="header-logo">E17 DTS 20</div>
+      <div class="header-list">
+        </div>
+        
+      </div>
+    </header>
+    <div class="lesson-wrapper">
+      <div class="container">
+        <h1>"THE LEGEND OF GUDEG"</h1>
+        <p>GUDEG MAKANAN SELERA NUSANTARA</p>
+        <p>GUDEG JOGJA</p>
+        
+      </div>
+      </div>
+    </div>	
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+css
+.header {
+  background-color: #30336b;
+  color: #fff;
+  height: 90px;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.lesson-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: ('Gudeg.jpg');
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
